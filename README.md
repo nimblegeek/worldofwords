@@ -1,5 +1,6 @@
-# Matmap
-Clubs, community and content.
+# World Of Words
+Become a better online writer.
 
-- Find and explore jiu-jitsu clubs near and far.
+## Features
+- wordcounter
 
